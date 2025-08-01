@@ -2,3 +2,4 @@ hi this f1 file data
 2 line data
 git rebase
 git pull
+git pull rebase
